@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(255, 255, 128);
+}
+
+#the_game {
+    position: fixed;
+    top: 25%;
+    left: 37%;
+}
+
+#result {
+    padding: 5px 5px;
+    border: 1px dashed black;
+    background: lightgray;
+}
